@@ -27,7 +27,7 @@ Este projeto é uma calculadora simples desenvolvida em HTML, CSS e JavaScript. 
 
 ## Demonstração
 
-![Screenshot da Calculadora](link-para-screenshot.png)  
+Screenshot da Calculadora(link-para-screenshot.png)  
 *Adicione uma captura de tela da calculadora aqui.*
 
 ## Instalação
